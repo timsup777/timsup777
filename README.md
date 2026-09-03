@@ -3,8 +3,15 @@
   <img alt="Second compte — le compte principal est @timsup-bit" src="assets/header-light.svg" width="100%">
 </picture>
 
-Mon compte principal est **[@timsup-bit](https://github.com/timsup-bit)** — c'est là que je
-publie ce que je construis aujourd'hui. Ce compte-ci garde les projets livrés avant.
+Ce compte garde les projets que j'ai livrés avant. Tout ce que je construis
+aujourd'hui est sur mon compte principal.
+
+<a href="https://github.com/timsup-bit">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/bouton-vers-timsup-bit-dark.svg">
+    <img alt="Mon compte principal, @timsup-bit" src="assets/bouton-vers-timsup-bit-light.svg" width="100%">
+  </picture>
+</a>
 
 ## Ce qu'il y a ici
 
